@@ -9,5 +9,6 @@ Due to which, the office in charge faces a lot of mismanagement issues. They are
 3. When are the files due?
 4. Has it been forwarded from that department or not?
 And the list goes on.
- …
+ â€¦
+ 
 Therefore, we came up with File Management System using Flutter that is an application that allows the user to initiate, track and update the status of a file from anywhere to anywhere within an organization.
