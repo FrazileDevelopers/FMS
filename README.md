@@ -1,16 +1,13 @@
-# FMS
 
-A new Flutter project.
 
-## Getting Started
+FILE MANAGEMENT SYSTEM
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Nowadays even though this world is full of various applications, we still maintain an offline register for the transfer of files. Even at some places, the art of record maintaining is not practised. 
+Due to which, the office in charge faces a lot of mismanagement issues. They are pestered with questions like,
+1. Where are the files?
+2. Has it reached the concerned department?
+3. When are the files due?
+4. Has it been forwarded from that department or not?
+And the list goes on.
+ …
+Therefore, we came up with File Management System using Flutter that is an application that allows the user to initiate, track and update the status of a file from anywhere to anywhere within an organization.
